@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : {
+    "namespace": "android_app",
+    "package_name": "app.barbello.twa",
+    "sha256_cert_fingerprints": [8B:AB:BB:7C:14:69:DC:5E:3F:0D:EA:89:C8:5A:CF:BD:DD:05:ED:C3:F2:88:70:ED:15:16:55:33:82:A6:A0:7E]
+  }
+}]
